@@ -4,6 +4,8 @@
 小企鹅主题设计网址： https://fcitx5-android.github.io/theme-designer/  
 当然不是原创了，都是随手找来的主题，如果**版权有争议，烦请告知，必删除**。
 
+[TOC]
+
 **说明：**
 1. 我选择主题喜欢带边框，虽然也尽量考虑到了不带边框的效果，但仍以带框效果优先。  
 2. 由于主题设计网站本身的功能缺失，长按键盘的弹出颜色可能没有调对，不过已经都检查过一遍，不会影响正常使用。
@@ -46,3 +48,43 @@
 ### 6. 搜狗·sogou_skin3
 
 ![](sogou_skin3.png)
+
+### 7. 红黄蓝
+
+![](红黄蓝.png)
+
+### 8. cyberpunk2024
+
+![](cyberpunk2024.png)
+
+### 9. mintWhite
+
+![](mintWhite.png)
+
+### 10. Calc 系列
+
+#### Calc2 
+
+![](Calc2.png)
+
+#### Calc3 
+
+![](Calc3.png)
+
+#### Calc4 
+
+![](Calc4.png)
+
+### 11. baiduDark
+
+![](baiduDark.png)
+
+### 12. goinput
+
+![](GoInput.png)
+
+### 13. Greysilver
+
+![](GreySilver.png)
+
+
