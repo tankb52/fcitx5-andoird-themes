@@ -19,77 +19,95 @@
 
 如无意外，应该直接导入成功。
 
-![](Usage.png)
+![](./screenshot/Usage.png)
 
 回到主题界面，在列表中缩略图上有笔形图案的为导入的主题，直接点击选择就可以使用了。
 
 预览图：
 ### 1. 同文风·tongwenfeng
 
-![](tongwenfeng.png)
+![](./screenshot/tongwenfeng.png)
 
 ### 2. 暗绿·DarkGreen
 
-![](DarkGreen.png)
+![](./screenshot/DarkGreen.png)
 
 ### 3. 绿色·GreenSkin
 
-![](GreenSkin.png)
+![](./screenshot/GreenSkin.png)
 
 ### 4. 搜狗·sogou_skin1
 
-![](sogou_skin1.png)
+![](./screenshot/sogou_skin1.png)
 
 
 ### 5. 搜狗·sogou_skin2
 
-![](sogou_skin2.png)
+![](./screenshot/sogou_skin2.png)
 
 ### 6. 搜狗·sogou_skin3
 
-![](sogou_skin3.png)
+![](./screenshot/sogou_skin3.png)
 
 ### 7. 红黄蓝
 
-![](红黄蓝.png)
+![](./screenshot/红黄蓝.png)
 
 ### 8. cyberpunk2024
 
-![](cyberpunk2024.png)
+![](./screenshot/cyberpunk2024.png)
 
 ### 9. mintWhite
 
-![](mintWhite.png)
+![](./screenshot/mintWhite.png)
 
 ### 10. Calc 系列
 
 #### Calc2 
 
-![](Calc2.png)
+![](./screenshot/Calc2.png)
 
 #### Calc3 
 
-![](Calc3.png)
+![](./screenshot/Calc3.png)
 
 #### Calc4 
 
-![](Calc4.png)
+![](./screenshot/Calc4.png)
 
 ### 11. baiduDark
 
-![](baiduDark.png)
+![](./screenshot/baiduDark.png)
 
 ### 12. goinput
 
-![](GoInput.png)
+![](./screenshot/GoInput.png)
 
 ### 13. Greysilver
 
-![](GreySilver.png)
+![](./screenshot/GreySilver.png)
 
 ### 14. DarkSalmon
 
-![](DarkSalmon.png)
+![](./screenshot/DarkSalmon.png)
 
-### 14. LightGreen
-![](LightGreen.png)
+### 15. LightGreen
+![](./screenshot/LightGreen.png)
+
+### 16. RoseRed
+![](./screenshot/RoseRed.png)
+
+### 17. 翠竹·Bamboo
+ **注意：** 此皮肤有透明背景，截图分别为`白底`、`深色`、`浅色`三种背景下的效果。  
+ **已知：** 绝大多数APP中都有自动抬升输入框的功能，所以此皮肤会显示白底效果，在知乎评论区、QQ搜索等部分页面会显示背景后文字。
+
+![](./screenshot/Bamboo.png)
+![](./screenshot/Bamboo2.png)
+
+### 18 酱紫·Purple
+继续尝试透明皮肤。  
+![](./screenshot/Purple.png)
+
+### 19 青黄木瓜·Papaya
+继续尝试透明皮肤，这次透明度高一点。  
+![](./screenshot/Papaya.png)
