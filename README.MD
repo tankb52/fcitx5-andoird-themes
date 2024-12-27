@@ -104,10 +104,10 @@
 ![](./screenshot/Bamboo.png)
 ![](./screenshot/Bamboo2.png)
 
-### 18 酱紫·Purple
+### 18. 酱紫·Purple
 继续尝试透明皮肤。  
 ![](./screenshot/Purple.png)
 
-### 19 青黄木瓜·Papaya
+### 19. 青黄木瓜·Papaya
 继续尝试透明皮肤，这次透明度高一点。  
 ![](./screenshot/Papaya.png)
