@@ -4,6 +4,11 @@
 
 小企鹅主题设计网址： https://fcitx5-android.github.io/theme-designer/
 
+自己总结了一个网页版主题设计工具的参数说明文档 Fcitx5Android_theme-disigner_manual.md，欢迎使用。
+[Fcitx5Android_theme-disigner_manual.md](./Fcitx5Android_theme-disigner_manual.md)
+ 
+
+
 当然不是原创了，都是随手找来的主题，如果**版权有争议，烦请告知，必删除**。
 
 [TOC]
