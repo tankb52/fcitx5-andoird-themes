@@ -117,3 +117,6 @@
 ### 20. 仿自森林集·write
 小企鹅能自定义的元素真不多，有些效果实在做不出来。
 ![](./screenshot/森林集·write.png)
+
+### 21. 是Gboard吖·isGboard
+![](./screenshot/isGboard.png)
