@@ -125,3 +125,17 @@
 
 ### 21. 是Gboard吖·isGboard
 ![](./screenshot/isGboard.png)
+
+╌╌╌╌╌╌╌
+2024-12-30：今天主题设计网站又更新了，可以调节候选词颜色了。
+╌╌╌╌╌╌╌
+
+### 22. trimeGreen
+以前就做好的，居然没截图。
+![](./screenshot/trimeGreen.png)
+
+### 23. Brownish 棕色
+![](./screenshot/Brownish.png)
+
+### 24. 仿iOS
+![](./screenshot/iOS.png)
