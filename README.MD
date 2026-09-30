@@ -145,3 +145,6 @@
 
 ### 25. 赛博朋克·cyberpunk2025
 ![](./screenshot/cyberpunk2025.png)
+
+### 26. 墨水屏E-ink
+![](./screenshot/墨水屏E-ink.png)
